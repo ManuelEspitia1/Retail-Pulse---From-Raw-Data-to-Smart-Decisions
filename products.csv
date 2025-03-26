@@ -1,0 +1,101 @@
+product_id,product_name,category,subcategory,cost,base_price,stock
+1,Purpose Fitness,Sports,Fitness,9.88,14.03,124
+2,Brother Audio,Electronics,Audio,24.99,44.8,289
+3,Ago Decor,Home,Decor,87.27,106.8,121
+4,Site Audio,Electronics,Audio,122.39,201.82,376
+5,Face Team Sports,Sports,Team Sports,111.26,153.13,311
+6,Election Men,Clothing,Men,152.97,203.1,226
+7,Dog Women,Clothing,Women,35.32,69.43,182
+8,Chair Furniture,Home,Furniture,79.09,117.62,186
+9,Since Action Figures,Toys,Action Figures,162.39,289.67,284
+10,Blue Kitchen,Home,Kitchen,20.37,29.22,331
+11,Require Action Figures,Toys,Action Figures,117.58,207.37,33
+12,Sit Fitness,Sports,Fitness,155.75,309.66,447
+13,Wait Mobile,Electronics,Mobile,79.12,123.64,437
+14,Offer Men,Clothing,Men,77.19,105.57,146
+15,Begin Team Sports,Sports,Team Sports,131.37,221.66,97
+16,Performance Dolls,Toys,Dolls,52.74,82.79,148
+17,Knowledge Team Sports,Sports,Team Sports,113.61,198.56,441
+18,Almost Furniture,Home,Furniture,165.25,304.73,215
+19,All Men,Clothing,Men,46.14,90.17,458
+20,Better Outdoor,Sports,Outdoor,46.46,74.31,462
+21,Discover Outdoor,Sports,Outdoor,32.86,43.1,391
+22,Early Dolls,Toys,Dolls,56.23,93.77,469
+23,Mouth Action Figures,Toys,Action Figures,75.59,151.02,80
+24,Play Action Figures,Toys,Action Figures,22.73,28.13,66
+25,Agreement Audio,Electronics,Audio,36.2,63.15,315
+26,Option Kitchen,Home,Kitchen,79.42,158.59,280
+27,Decide Kids,Clothing,Kids,172.85,209.01,379
+28,Sense Decor,Home,Decor,177.53,319.68,403
+29,Rate Outdoor,Sports,Outdoor,26.75,41.4,242
+30,Science Decor,Home,Decor,175.79,247.99,266
+31,Offer Audio,Electronics,Audio,182.96,346.97,162
+32,Kind Team Sports,Sports,Team Sports,123.75,163.63,400
+33,Discussion Audio,Electronics,Audio,190.93,370.01,480
+34,List Decor,Home,Decor,68.21,82.91,485
+35,Perform Women,Clothing,Women,51.69,71.99,300
+36,Fall Furniture,Home,Furniture,147.72,273.7,399
+37,Table Puzzles,Toys,Puzzles,30.04,47.47,291
+38,True Laptop,Electronics,Laptop,107.9,181.84,118
+39,According Dolls,Toys,Dolls,139.52,247.0,214
+40,Song Team Sports,Sports,Team Sports,77.82,149.39,241
+41,Sure Furniture,Home,Furniture,48.82,71.79,311
+42,Collection Puzzles,Toys,Puzzles,119.75,144.39,372
+43,Save Fitness,Sports,Fitness,49.64,95.52,450
+44,Knowledge Men,Clothing,Men,105.26,149.76,258
+45,Grow Audio,Electronics,Audio,30.8,60.01,302
+46,Fall Action Figures,Toys,Action Figures,52.38,82.68,218
+47,Clearly Mobile,Electronics,Mobile,23.9,36.92,226
+48,Dinner Non-Fiction,Books,Non-Fiction,173.45,215.66,344
+49,Source Fitness,Sports,Fitness,16.82,29.98,419
+50,Great Furniture,Home,Furniture,42.36,69.01,81
+51,Blue Fiction,Books,Fiction,59.32,83.04,482
+52,Best Kitchen,Home,Kitchen,162.56,306.39,60
+53,Husband Decor,Home,Decor,199.86,373.5,57
+54,Bill Mobile,Electronics,Mobile,84.25,133.54,452
+55,Her Fiction,Books,Fiction,37.1,44.58,209
+56,Throw Women,Clothing,Women,60.62,106.53,384
+57,Guy Dolls,Toys,Dolls,145.09,192.08,161
+58,Pm Mobile,Electronics,Mobile,117.94,192.69,392
+59,Everything Men,Clothing,Men,14.78,23.37,480
+60,Surface Puzzles,Toys,Puzzles,16.09,25.84,445
+61,Animal Mobile,Electronics,Mobile,121.03,210.61,130
+62,Show Fiction,Books,Fiction,188.61,312.29,306
+63,Machine Puzzles,Toys,Puzzles,125.78,193.12,308
+64,Not Dolls,Toys,Dolls,66.69,93.94,352
+65,Capital Outdoor,Sports,Outdoor,51.54,78.17,353
+66,Win Outdoor,Sports,Outdoor,94.16,182.97,489
+67,Human Furniture,Home,Furniture,94.37,188.62,61
+68,Bar Decor,Home,Decor,46.57,65.76,487
+69,Old Men,Clothing,Men,176.46,263.92,90
+70,Finally Comics,Books,Comics,142.19,240.21,423
+71,Themselves Team Sports,Sports,Team Sports,6.53,12.1,163
+72,Production Fitness,Sports,Fitness,188.09,245.92,69
+73,Present Decor,Home,Decor,112.88,160.05,319
+74,Value Audio,Electronics,Audio,71.86,125.75,446
+75,Training Kids,Clothing,Kids,100.26,192.93,443
+76,High Furniture,Home,Furniture,128.69,239.81,32
+77,Participant Kitchen,Home,Kitchen,155.37,265.63,144
+78,Dark Audio,Electronics,Audio,91.16,160.85,297
+79,Sea Furniture,Home,Furniture,19.67,37.5,472
+80,Available Audio,Electronics,Audio,12.03,17.99,292
+81,Answer Laptop,Electronics,Laptop,29.85,43.18,470
+82,Recently Kitchen,Home,Kitchen,45.96,64.33,62
+83,Drive Kids,Clothing,Kids,177.41,270.57,327
+84,Spring Fitness,Sports,Fitness,185.52,257.76,93
+85,Figure Laptop,Electronics,Laptop,9.83,17.59,180
+86,Base Comics,Books,Comics,173.49,320.71,146
+87,Top Audio,Electronics,Audio,26.08,49.49,449
+88,Early Fiction,Books,Fiction,43.92,84.97,189
+89,Trial Men,Clothing,Men,48.47,83.76,214
+90,Blood Women,Clothing,Women,173.55,342.5,152
+91,Husband Kids,Clothing,Kids,104.33,181.91,441
+92,Fall Action Figures,Toys,Action Figures,188.15,243.14,143
+93,Long Audio,Electronics,Audio,192.69,272.15,65
+94,Prove Action Figures,Toys,Action Figures,72.41,132.45,233
+95,They Dolls,Toys,Dolls,27.55,52.89,107
+96,His Men,Clothing,Men,143.21,172.05,483
+97,Commercial Dolls,Toys,Dolls,145.29,260.59,353
+98,Hospital Laptop,Electronics,Laptop,89.1,174.56,481
+99,Hear Kids,Clothing,Kids,66.21,124.37,378
+100,Determine Kids,Clothing,Kids,65.31,99.71,216

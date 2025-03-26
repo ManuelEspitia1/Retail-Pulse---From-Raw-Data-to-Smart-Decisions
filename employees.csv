@@ -1,0 +1,151 @@
+employee_id,full_name,hire_date,position,store_id
+1,Amy Dean,2018-02-28,Manager,6
+2,Brittney Bowman,2021-03-14,Cashier,2
+3,Steven May,2019-03-21,Cashier,18
+4,Justin Vang,2019-08-07,Cashier,4
+5,Erika Bates,2024-05-09,Manager,16
+6,Stephanie Meyer,2022-08-07,Cashier,10
+7,Alicia Cardenas,2019-12-29,Sales Rep,12
+8,Gregory Russell,2022-08-24,Sales Rep,7
+9,Dr. Kylie Hamilton,2018-03-18,Sales Rep,8
+10,Rachel Sullivan,2023-05-05,Cashier,14
+11,Bridget Guerrero,2018-08-27,Manager,1
+12,Laura Cooper,2022-05-31,Sales Rep,9
+13,Claire Hoffman,2023-08-30,Cashier,4
+14,Ronald Khan,2023-05-14,Manager,8
+15,Emily Rogers,2024-06-19,Sales Rep,2
+16,Ryan Waters,2020-10-16,Cashier,16
+17,Kevin Mejia,2023-12-12,Cashier,20
+18,Steven Bond,2023-10-29,Sales Rep,12
+19,Paul Smith,2022-09-03,Sales Rep,8
+20,Lindsay Solomon,2020-09-22,Sales Rep,16
+21,Mrs. Veronica Hughes MD,2018-07-27,Sales Rep,20
+22,Logan Colon,2023-10-06,Manager,2
+23,Tony Brooks,2018-05-24,Sales Rep,12
+24,Angela Soto,2018-07-07,Cashier,5
+25,Amy Russell,2019-03-29,Cashier,18
+26,Christina Aguilar,2021-02-07,Sales Rep,5
+27,Charles Blair,2019-07-18,Manager,8
+28,Alan Simpson,2021-02-05,Manager,18
+29,Christopher Klein,2021-02-21,Cashier,12
+30,Jamie Roy,2022-09-13,Manager,7
+31,Haley Peters,2018-08-24,Sales Rep,13
+32,Molly Mckenzie,2024-06-16,Manager,5
+33,Vicki Cunningham,2024-07-11,Manager,2
+34,Richard Johnson,2024-07-21,Manager,15
+35,Deborah Waller,2019-05-23,Cashier,10
+36,Brandon Anderson,2024-07-08,Cashier,16
+37,Timothy Harris,2024-05-29,Sales Rep,19
+38,John Ho,2021-04-01,Sales Rep,18
+39,Zachary Velez,2022-09-30,Manager,11
+40,Christopher James,2019-07-14,Cashier,15
+41,Roger Petty,2020-03-23,Manager,20
+42,Joshua Bray,2020-08-19,Cashier,6
+43,Jermaine Vance,2021-10-25,Sales Rep,17
+44,Kevin Barber,2019-03-08,Sales Rep,15
+45,Amber Lin,2020-01-22,Manager,9
+46,Robert Reynolds,2019-12-29,Cashier,12
+47,Jesse Fleming,2023-10-28,Manager,1
+48,Joseph Pennington,2024-05-02,Cashier,17
+49,Kathryn Palmer,2024-05-28,Manager,6
+50,Roy Fowler,2024-02-23,Sales Rep,20
+51,Leah Wilcox,2018-09-19,Manager,20
+52,Joseph Beltran,2019-03-15,Sales Rep,11
+53,Morgan Henry,2023-02-13,Cashier,3
+54,Cynthia Simmons,2023-10-14,Cashier,18
+55,Kimberly Mcdowell,2023-12-08,Manager,7
+56,Michael Flores,2018-03-16,Cashier,16
+57,Paul Moyer,2018-02-28,Cashier,5
+58,Leah Ball,2020-12-31,Cashier,10
+59,Wendy Chavez,2022-11-25,Manager,14
+60,Todd Young,2020-11-01,Cashier,11
+61,Bridget Sparks,2020-07-22,Sales Rep,4
+62,Joshua Miller,2023-11-19,Cashier,3
+63,Mark Murphy,2019-02-11,Sales Rep,5
+64,Meghan Keller MD,2020-05-06,Sales Rep,2
+65,Teresa Mcdaniel MD,2019-01-20,Sales Rep,4
+66,Matthew Giles,2018-07-05,Manager,7
+67,Erin Sanders,2021-03-13,Sales Rep,2
+68,Amanda Garza,2023-05-29,Cashier,13
+69,Jeffrey Lynch,2020-01-09,Cashier,16
+70,Alexis Moore,2024-03-30,Cashier,20
+71,Gary Johnson,2022-03-27,Cashier,19
+72,Mary Daniels,2024-10-28,Manager,2
+73,Melissa Romero,2020-01-17,Manager,8
+74,Stephen Morgan,2023-02-23,Cashier,3
+75,Lori Holland,2019-12-26,Sales Rep,7
+76,Joshua Ellis,2023-09-03,Cashier,16
+77,Melissa Alexander,2020-07-01,Sales Rep,15
+78,Steven Morales,2020-09-25,Cashier,2
+79,Randy Douglas,2018-03-09,Manager,18
+80,Denise Deleon,2024-09-28,Cashier,14
+81,Mark Mcpherson,2021-06-18,Manager,2
+82,Janice Hernandez,2022-05-14,Cashier,9
+83,Katie Higgins,2019-01-29,Cashier,2
+84,Erica Ray,2021-06-16,Cashier,3
+85,Rachel Patel,2022-10-09,Manager,3
+86,Mason Fleming,2023-07-19,Sales Rep,17
+87,Michael Ware,2022-08-24,Sales Rep,4
+88,Nicole Price,2023-02-03,Cashier,8
+89,Jesus Johnson,2022-09-17,Cashier,13
+90,Steven Thompson,2023-03-23,Sales Rep,7
+91,Debra White,2021-08-31,Cashier,8
+92,James Taylor,2023-10-14,Cashier,6
+93,Charlene Wright,2024-08-29,Cashier,18
+94,Nancy Bradford,2023-07-12,Manager,4
+95,Courtney Shepard,2021-10-28,Cashier,19
+96,Laura Garcia,2020-10-31,Manager,15
+97,Michael Moon,2019-04-22,Cashier,14
+98,Miranda Randolph,2019-03-31,Sales Rep,6
+99,Jasmine Schmitt,2019-03-16,Sales Rep,18
+100,Connie Neal,2020-05-27,Manager,17
+101,Melissa Garcia,2024-01-09,Manager,6
+102,Ashley Page,2020-08-01,Cashier,20
+103,Matthew Stone,2024-09-10,Manager,12
+104,Kristin Smith,2020-03-30,Manager,18
+105,Michael Summers II,2019-05-12,Manager,12
+106,Barbara Leonard,2021-08-02,Manager,14
+107,Tammy Wilson,2021-05-14,Cashier,11
+108,Mr. Joseph Bush,2022-01-27,Cashier,8
+109,Andrew Roberson,2019-06-22,Cashier,18
+110,Frederick Chavez,2020-04-15,Sales Rep,13
+111,Brian Daniel,2020-07-24,Cashier,9
+112,Ruth Alvarez,2023-12-03,Manager,15
+113,Cynthia Simmons,2023-12-17,Manager,13
+114,Tyler Baker,2023-12-04,Sales Rep,2
+115,Maria Rodriguez,2024-08-26,Manager,20
+116,Amanda Gomez,2021-03-13,Sales Rep,17
+117,Theresa Martinez,2022-02-21,Sales Rep,10
+118,Antonio Oconnor,2018-12-03,Sales Rep,10
+119,Devon Anderson,2023-11-30,Sales Rep,7
+120,Selena Bailey,2019-02-21,Manager,1
+121,Gary Lamb,2023-08-31,Cashier,9
+122,Anthony Nguyen,2023-05-30,Cashier,17
+123,Rebecca Cole,2021-02-04,Cashier,19
+124,Christopher Vasquez,2020-05-13,Cashier,5
+125,Patrick Caldwell,2021-10-15,Sales Rep,2
+126,Kevin Oconnell,2023-07-30,Manager,12
+127,Micheal Austin,2019-03-31,Sales Rep,5
+128,Tyler Lozano,2024-10-09,Manager,12
+129,Jessica Cook,2018-12-14,Cashier,8
+130,Sonya Williams,2023-08-11,Sales Rep,9
+131,David Holland,2019-08-17,Manager,3
+132,Bonnie Wiley,2024-03-07,Cashier,13
+133,Rebecca Oneill,2018-06-26,Cashier,7
+134,Gerald Johnson,2019-06-06,Cashier,3
+135,Kristi White,2018-09-14,Cashier,11
+136,Samuel Warren,2020-09-06,Manager,6
+137,Whitney Henry,2021-06-30,Manager,19
+138,Wanda Walker,2021-02-21,Sales Rep,20
+139,Jessica Herring,2022-07-02,Cashier,10
+140,Aaron Diaz,2021-08-10,Sales Rep,19
+141,Carol Wood,2019-06-19,Manager,3
+142,Kelly Trujillo,2019-03-18,Sales Rep,11
+143,Rose Mclaughlin,2019-05-02,Manager,14
+144,Curtis Thomas,2023-11-21,Manager,4
+145,Eric Davis,2020-08-22,Sales Rep,20
+146,Brandon Sanchez,2019-11-02,Sales Rep,13
+147,Mitchell Ford,2018-03-03,Sales Rep,10
+148,John Stone,2018-08-11,Cashier,2
+149,Richard Yoder,2021-05-12,Manager,18
+150,Paul Cox,2022-05-24,Cashier,5

@@ -1,0 +1,21 @@
+store_id,store_name,store_type,region,city
+1,Store 1,physical,North,South Brandon
+2,Store 2,physical,North,Lake Nicholas
+3,Store 3,online,South,North Curtisstad
+4,Store 4,online,West,Vazqueztown
+5,Store 5,online,West,New Michealshire
+6,Store 6,online,West,Port Keithshire
+7,Store 7,physical,East,North Jennifer
+8,Store 8,physical,South,Braunshire
+9,Store 9,physical,East,South Katelyn
+10,Store 10,online,North,Wangshire
+11,Store 11,online,South,Kaneport
+12,Store 12,physical,East,Davishaven
+13,Store 13,online,North,Dustinstad
+14,Store 14,physical,South,Walshshire
+15,Store 15,online,West,East Mark
+16,Store 16,physical,North,West Andrewhaven
+17,Store 17,physical,West,Ashleyborough
+18,Store 18,physical,Central,East Daniel
+19,Store 19,physical,West,West Kimberly
+20,Store 20,online,East,Powellside
