@@ -1,21 +1,101 @@
 store_id,store_name,store_type,region,city
-1,Store 1,physical,North,South Brandon
-2,Store 2,physical,North,Lake Nicholas
-3,Store 3,online,South,North Curtisstad
-4,Store 4,online,West,Vazqueztown
-5,Store 5,online,West,New Michealshire
-6,Store 6,online,West,Port Keithshire
-7,Store 7,physical,East,North Jennifer
-8,Store 8,physical,South,Braunshire
-9,Store 9,physical,East,South Katelyn
-10,Store 10,online,North,Wangshire
-11,Store 11,online,South,Kaneport
-12,Store 12,physical,East,Davishaven
-13,Store 13,online,North,Dustinstad
-14,Store 14,physical,South,Walshshire
-15,Store 15,online,West,East Mark
-16,Store 16,physical,North,West Andrewhaven
-17,Store 17,physical,West,Ashleyborough
-18,Store 18,physical,Central,East Daniel
-19,Store 19,physical,West,West Kimberly
-20,Store 20,online,East,Powellside
+1,Store 1,online,USA,Los Angeles
+2,Store 2,physical,USA,Los Angeles
+3,Store 3,physical,USA,Phoenix
+4,Store 4,physical,USA,New York
+5,Store 5,online,USA,Chicago
+6,Store 6,physical,USA,Phoenix
+7,Store 7,physical,USA,Houston
+8,Store 8,physical,USA,Chicago
+9,Store 9,physical,USA,New York
+10,Store 10,physical,USA,New York
+11,Store 11,physical,USA,Los Angeles
+12,Store 12,physical,USA,New York
+13,Store 13,online,USA,New York
+14,Store 14,online,USA,Chicago
+15,Store 15,physical,USA,Phoenix
+16,Store 16,physical,USA,Houston
+17,Store 17,physical,USA,Los Angeles
+18,Store 18,physical,USA,Chicago
+19,Store 19,online,USA,Houston
+20,Store 20,physical,USA,Houston
+21,Store 21,physical,USA,Los Angeles
+22,Store 22,online,USA,Phoenix
+23,Store 23,physical,USA,New York
+24,Store 24,online,USA,Chicago
+25,Store 25,physical,USA,Phoenix
+26,Store 26,online,USA,New York
+27,Store 27,online,USA,Los Angeles
+28,Store 28,online,USA,Chicago
+29,Store 29,physical,USA,Chicago
+30,Store 30,physical,USA,Houston
+31,Store 31,physical,USA,Los Angeles
+32,Store 32,physical,USA,Chicago
+33,Store 33,physical,USA,Los Angeles
+34,Store 34,online,USA,Los Angeles
+35,Store 35,physical,USA,Chicago
+36,Store 36,physical,USA,Houston
+37,Store 37,online,USA,Los Angeles
+38,Store 38,online,USA,Los Angeles
+39,Store 39,online,USA,New York
+40,Store 40,physical,USA,New York
+41,Store 41,physical,USA,Chicago
+42,Store 42,physical,USA,Phoenix
+43,Store 43,online,USA,Los Angeles
+44,Store 44,online,USA,Los Angeles
+45,Store 45,online,USA,New York
+46,Store 46,physical,USA,Los Angeles
+47,Store 47,physical,USA,Los Angeles
+48,Store 48,physical,USA,Los Angeles
+49,Store 49,physical,USA,Phoenix
+50,Store 50,online,USA,Houston
+51,Store 51,physical,Canada,Vancouver
+52,Store 52,physical,Canada,Vancouver
+53,Store 53,online,Canada,Montreal
+54,Store 54,online,Canada,Montreal
+55,Store 55,online,Canada,Montreal
+56,Store 56,online,Canada,Vancouver
+57,Store 57,online,Canada,Calgary
+58,Store 58,physical,Canada,Calgary
+59,Store 59,physical,Canada,Calgary
+60,Store 60,physical,Canada,Ottawa
+61,Store 61,online,Canada,Montreal
+62,Store 62,online,Canada,Montreal
+63,Store 63,online,Canada,Calgary
+64,Store 64,physical,Canada,Montreal
+65,Store 65,physical,Canada,Vancouver
+66,Store 66,physical,Canada,Toronto
+67,Store 67,online,Canada,Calgary
+68,Store 68,online,Canada,Calgary
+69,Store 69,online,Canada,Calgary
+70,Store 70,physical,Canada,Calgary
+71,Store 71,physical,Mexico,Guadalajara
+72,Store 72,online,Colombia,Medellín
+73,Store 73,online,Brazil,Rio de Janeiro
+74,Store 74,online,Brazil,Brasília
+75,Store 75,online,Brazil,São Paulo
+76,Store 76,physical,Chile,Concepción
+77,Store 77,physical,Colombia,Medellín
+78,Store 78,physical,Peru,Cusco
+79,Store 79,physical,Brazil,Brasília
+80,Store 80,online,Peru,Cusco
+81,Store 81,online,Brazil,São Paulo
+82,Store 82,physical,Colombia,Cali
+83,Store 83,physical,Mexico,Mexico City
+84,Store 84,online,Brazil,Brasília
+85,Store 85,physical,Chile,Concepción
+86,Store 86,online,Argentina,Buenos Aires
+87,Store 87,online,Colombia,Medellín
+88,Store 88,online,Brazil,Rio de Janeiro
+89,Store 89,online,Argentina,Córdoba
+90,Store 90,physical,Brazil,São Paulo
+91,Store 91,online,Brazil,Brasília
+92,Store 92,physical,Colombia,Medellín
+93,Store 93,online,Brazil,Rio de Janeiro
+94,Store 94,online,Mexico,Mexico City
+95,Store 95,physical,Mexico,Mexico City
+96,Store 96,online,Brazil,Rio de Janeiro
+97,Store 97,online,Brazil,Rio de Janeiro
+98,Store 98,online,Colombia,Bogotá
+99,Store 99,physical,Colombia,Cali
+100,Store 100,physical,Colombia,Medellín
