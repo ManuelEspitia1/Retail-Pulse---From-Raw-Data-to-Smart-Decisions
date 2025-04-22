@@ -1,0 +1,144 @@
+country,city,customer_loyal_group,total_revenue
+USA,Phoenix,Elite,557491.12
+USA,New York,Elite,488056.39
+USA,Chicago,Elite,423792.06
+USA,Houston,Elite,403614.63
+USA,Los Angeles,Elite,373125.08
+USA,Chicago,Loyal,216475.92
+USA,Phoenix,Loyal,213773.3
+USA,Houston,Loyal,212164.53
+USA,New York,Loyal,205654.92
+USA,Los Angeles,Loyal,200458.17
+Canada,Vancouver,Elite,151220.01
+Chile,Valparaíso,Elite,150759.54
+Chile,Antofagasta,Elite,139779.88
+Colombia,Cartagena,Elite,131800.86000000002
+Chile,Concepción,Elite,129168.63
+Canada,Montreal,Elite,123665.81999999999
+Canada,Ottawa,Elite,122605.23
+Mexico,Monterrey,Elite,117246.19
+Mexico,Guadalajara,Elite,115593.03
+Canada,Calgary,Elite,113512.13
+Peru,Lima,Elite,112119.61
+Peru,Trujillo,Elite,108454.42
+Colombia,Cali,Elite,102573.39
+Mexico,Puebla,Elite,100516.62
+Peru,Arequipa,Elite,97387.46
+Chile,Santiago,Elite,97382.53
+Brazil,São Paulo,Elite,97344.41
+Argentina,Mendoza,Elite,92894.27
+Mexico,Tijuana,Elite,91132.59
+Chile,Antofagasta,Loyal,87195.19
+Colombia,Bogotá,Elite,87100.12
+Argentina,Rosario,Elite,82373.12
+Colombia,Barranquilla,Elite,79397.31
+Argentina,Buenos Aires,Elite,79208.51
+Brazil,Rio de Janeiro,Elite,79068.58
+Peru,Piura,Elite,78832.58
+Brazil,Belo Horizonte,Elite,76109.91
+Mexico,Mexico City,Elite,67652.4
+Argentina,La Plata,Elite,66180.18
+Canada,Vancouver,Loyal,60084.98
+Canada,Ottawa,Loyal,59797.31
+Mexico,Guadalajara,Loyal,59361.93
+Argentina,Córdoba,Elite,59321.65
+Brazil,Salvador,Elite,58911.23
+Canada,Montreal,Loyal,58620.03
+Colombia,Medellín,Elite,58325.17
+Brazil,Belo Horizonte,Loyal,56880.61
+Mexico,Monterrey,Loyal,52890.26
+Colombia,Cali,Loyal,51568.54
+Canada,Toronto,Elite,51427.75
+Peru,Piura,Loyal,51279.34
+Peru,Cusco,Elite,49960.09
+Mexico,Puebla,Loyal,48722.11
+Argentina,Rosario,Loyal,47875.61
+Peru,Trujillo,Loyal,47102.22
+Mexico,Mexico City,Loyal,45974.090000000004
+Canada,Toronto,Loyal,45423.1
+Colombia,Cartagena,Loyal,44400.8
+Brazil,Brasília,Loyal,41597.66
+Canada,Calgary,Loyal,41359.88
+Peru,Lima,Loyal,38577.4
+Colombia,Barranquilla,Loyal,38523.03
+USA,Houston,Recent,38149.93
+Chile,Valparaíso,Loyal,37546.32
+Mexico,Tijuana,Loyal,35881.48
+Peru,Arequipa,Loyal,35338.05
+Brazil,Salvador,Loyal,35334.0
+Brazil,Brasília,Elite,34738.3
+Brazil,São Paulo,Loyal,34204.31
+Argentina,La Plata,Loyal,33260.34
+Chile,Concepción,Loyal,32710.22
+USA,Chicago,Recent,32622.35
+Colombia,Medellín,Loyal,32080.72
+Peru,Cusco,Loyal,30071.07
+Argentina,Buenos Aires,Loyal,29845.9
+USA,Houston,New,28481.47
+Argentina,Córdoba,Loyal,26330.15
+Chile,Santiago,Loyal,25277.09
+USA,New York,Recent,24648.8
+Argentina,Mendoza,Loyal,23231.39
+Colombia,Bogotá,Loyal,22744.86
+Brazil,Rio de Janeiro,Recent,21654.68
+Brazil,Rio de Janeiro,Loyal,21327.24
+USA,Phoenix,Recent,20948.03
+USA,Los Angeles,Recent,16309.5
+Argentina,Buenos Aires,Recent,15604.24
+Canada,Toronto,Recent,15333.59
+Brazil,Brasília,Recent,14706.58
+USA,New York,New,14477.26
+Brazil,Belo Horizonte,Recent,13836.09
+Mexico,Puebla,Recent,12977.36
+Canada,Vancouver,Recent,11856.24
+USA,Chicago,New,11178.16
+Chile,Santiago,Recent,11017.84
+Chile,Valparaíso,New,10626.49
+Argentina,La Plata,Recent,10547.98
+Colombia,Medellín,Recent,10359.14
+Colombia,Cali,Recent,10263.05
+Argentina,Córdoba,Recent,10085.76
+Chile,Antofagasta,Recent,9339.07
+Peru,Piura,Recent,9193.36
+Mexico,Monterrey,Recent,9155.18
+Peru,Cusco,Recent,9044.19
+Peru,Arequipa,Recent,8930.34
+Chile,Concepción,Recent,8553.51
+Canada,Montreal,Recent,8489.33
+Argentina,Rosario,Recent,7914.12
+Colombia,Bogotá,Recent,7501.38
+Mexico,Tijuana,New,7484.42
+Brazil,Salvador,Recent,6980.08
+Colombia,Bogotá,New,6530.89
+Peru,Lima,Recent,6449.42
+Chile,Santiago,New,6365.65
+Brazil,São Paulo,New,6348.17
+Colombia,Cartagena,Recent,5827.7
+Brazil,Rio de Janeiro,New,5652.7
+Canada,Calgary,Recent,5014.31
+Brazil,São Paulo,Recent,4986.57
+Peru,Arequipa,New,4973.74
+Peru,Cusco,New,4876.66
+Canada,Calgary,New,4659.09
+Peru,Piura,New,4511.9400000000005
+Colombia,Barranquilla,Recent,4126.74
+Mexico,Mexico City,Recent,3968.01
+Canada,Ottawa,New,3963.7699999999995
+USA,Phoenix,New,3833.19
+Argentina,Córdoba,New,3400.91
+Mexico,Guadalajara,New,3154.2799999999997
+Brazil,Belo Horizonte,New,2988.15
+Argentina,Mendoza,Recent,2847.33
+Canada,Ottawa,Recent,2588.9500000000003
+Argentina,Mendoza,New,2466.76
+Colombia,Cali,New,2376.39
+Chile,Valparaíso,Recent,2225.49
+Mexico,Mexico City,New,2210.05
+Mexico,Monterrey,New,2120.06
+Mexico,Tijuana,Recent,1900.9
+USA,Los Angeles,New,1812.29
+Mexico,Puebla,New,1580.59
+Mexico,Guadalajara,Recent,1538.83
+Brazil,Salvador,New,1478.3999999999999
+Peru,Trujillo,Recent,1035.72
+Peru,Lima,New,208.53
